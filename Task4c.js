@@ -14,9 +14,6 @@ behavior:"smooth"
 
 });
 
-
-// Contact Form Validation
-
 const form=document.getElementById("contactForm");
 
 const error=document.getElementById("error");
